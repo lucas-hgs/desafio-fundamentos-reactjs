@@ -8,7 +8,7 @@
 
 Nesse desafio, foi criado o front-end da aplicação de gestão de transações, treinando o que foi aprendido até agora no ReactJS junto ao TypeScript.
 
-Essa é uma aplicação que lista transações financeiras de entrada e saída e permite o upload de novas transações através da importação de arquivos CSV.
+Essa é uma aplicação que lista transações financeiras de entrada e saída, permite o upload de novas transações através da importação de arquivos CSV.
 
 ## Ferramentas utilizadas
 
